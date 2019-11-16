@@ -1,0 +1,4 @@
+pwd ; mkdir test ; cd test
+cp ../input.txt . ; ls
+cat input.txt ; del input.txt
+cd .. ; pwd ; ls
